@@ -87,4 +87,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-Remember to replace all placeholder information such as `your-username/your-repo-name.git`, `support@xyzapplication.com`, and any other dummy data with the actual details. The `README.md` should be placed in the root of your project so that it's the first thing users see when visiting your repository on GitHub.
